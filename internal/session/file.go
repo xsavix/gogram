@@ -1,5 +1,3 @@
-// Copyright (c) 2025 @AmarnathCJD
-
 package session
 
 import (
@@ -14,8 +12,8 @@ import (
 
 	"errors"
 
-	aes "github.com/amarnathcjd/gogram/internal/aes_ige"
-	"github.com/amarnathcjd/gogram/internal/encoding/tl"
+	aes "github.com/xsavix/gogram/internal/aes_ige"
+	"github.com/xsavix/gogram/internal/encoding/tl"
 )
 
 const defaultAESKey = "1234567890123456"

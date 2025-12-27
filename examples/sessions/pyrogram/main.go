@@ -4,7 +4,7 @@ import (
 	"encoding/base64"
 	"fmt"
 
-	"github.com/amarnathcjd/gogram/telegram"
+	"github.com/xsavix/gogram/telegram"
 )
 
 // This function decodes the Pyrogram Session String to gogram's Session Format

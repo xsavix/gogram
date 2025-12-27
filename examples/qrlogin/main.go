@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/amarnathcjd/gogram/telegram"
+	"github.com/xsavix/gogram/telegram"
 )
 
 const (

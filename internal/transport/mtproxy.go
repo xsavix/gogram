@@ -1,5 +1,3 @@
-// Copyright (c) 2025 @AmarnathCJD
-
 package transport
 
 import (
@@ -22,7 +20,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/amarnathcjd/gogram/internal/utils"
+	"github.com/xsavix/gogram/internal/utils"
 )
 
 const maxTLSPacketLength = 2878

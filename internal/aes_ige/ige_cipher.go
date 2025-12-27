@@ -1,5 +1,3 @@
-// Copyright (c) 2025 @AmarnathCJD
-
 package ige
 
 import (
@@ -8,7 +6,7 @@ import (
 	"crypto/sha256"
 	"fmt"
 
-	"github.com/amarnathcjd/gogram/internal/utils"
+	"github.com/xsavix/gogram/internal/utils"
 )
 
 type Cipher struct {

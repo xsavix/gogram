@@ -1,4 +1,3 @@
-// Copyright (c) 2025 @AmarnathCJD
 // Secret Chat methods for the Telegram Client
 
 package telegram
@@ -10,8 +9,8 @@ import (
 	"math/big"
 	"os"
 
-	"github.com/amarnathcjd/gogram/internal/utils"
-	"github.com/amarnathcjd/gogram/telegram/e2e"
+	"github.com/xsavix/gogram/internal/utils"
+	"github.com/xsavix/gogram/telegram/e2e"
 )
 
 // RequestSecretChat requests a new secret chat with a user

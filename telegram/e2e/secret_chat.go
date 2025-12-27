@@ -1,4 +1,3 @@
-// Copyright (c) 2025 @AmarnathCJD
 // Secret Chat manager for E2E encrypted chats
 
 package e2e
@@ -12,9 +11,9 @@ import (
 	"sync"
 	"time"
 
-	aes "github.com/amarnathcjd/gogram/internal/aes_ige"
-	"github.com/amarnathcjd/gogram/internal/encoding/tl"
-	"github.com/amarnathcjd/gogram/internal/utils"
+	aes "github.com/xsavix/gogram/internal/aes_ige"
+	"github.com/xsavix/gogram/internal/encoding/tl"
+	"github.com/xsavix/gogram/internal/utils"
 )
 
 const (

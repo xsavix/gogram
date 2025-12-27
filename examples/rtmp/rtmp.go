@@ -25,7 +25,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/amarnathcjd/gogram/telegram"
+	"github.com/xsavix/gogram/telegram"
 )
 
 var streams = make(map[int64]*telegram.RTMPStream)

@@ -1,5 +1,3 @@
-// Copyright (c) 2025 @AmarnathCJD
-
 package gogram
 
 import (
@@ -13,13 +11,13 @@ import (
 
 	"errors"
 
-	ige "github.com/amarnathcjd/gogram/internal/aes_ige"
-	"github.com/amarnathcjd/gogram/internal/encoding/tl"
-	"github.com/amarnathcjd/gogram/internal/keys"
-	"github.com/amarnathcjd/gogram/internal/math"
-	"github.com/amarnathcjd/gogram/internal/mtproto/objects"
-	"github.com/amarnathcjd/gogram/internal/session"
-	"github.com/amarnathcjd/gogram/internal/utils"
+	ige "github.com/xsavix/gogram/internal/aes_ige"
+	"github.com/xsavix/gogram/internal/encoding/tl"
+	"github.com/xsavix/gogram/internal/keys"
+	"github.com/xsavix/gogram/internal/math"
+	"github.com/xsavix/gogram/internal/mtproto/objects"
+	"github.com/xsavix/gogram/internal/session"
+	"github.com/xsavix/gogram/internal/utils"
 )
 
 // https://core.telegram.org/mtproto/auth_key

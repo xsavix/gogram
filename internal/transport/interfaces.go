@@ -1,5 +1,3 @@
-// Copyright (c) 2025 @AmarnathCJD
-
 package transport
 
 import (
@@ -7,7 +5,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/amarnathcjd/gogram/internal/utils"
+	"github.com/xsavix/gogram/internal/utils"
 )
 
 type ConnConfig any

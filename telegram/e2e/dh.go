@@ -1,5 +1,3 @@
-// Copyright (c) 2025 @AmarnathCJD
-
 package e2e
 
 import (

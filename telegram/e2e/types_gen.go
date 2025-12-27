@@ -1,8 +1,8 @@
-// Code generated from E2E TL Schema; DO NOT EDIT. (c) @amarnathcjd
+// Code generated from E2E TL Schema; DO NOT EDIT.
 
 package e2e
 
-import tl "github.com/amarnathcjd/gogram/internal/encoding/tl"
+import tl "github.com/xsavix/gogram/internal/encoding/tl"
 
 // ===== DecryptedMessage (Latest: Layer 73) =====
 type DecryptedMessage interface {

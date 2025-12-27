@@ -1,5 +1,3 @@
-// Copyright (c) 2025 @AmarnathCJD
-
 package mode
 
 import (
@@ -8,7 +6,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/amarnathcjd/gogram/internal/encoding/tl"
+	"github.com/xsavix/gogram/internal/encoding/tl"
 )
 
 // paddedIntermediate implements the padded intermediate MTProto transport.

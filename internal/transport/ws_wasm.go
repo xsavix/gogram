@@ -1,4 +1,3 @@
-// Copyright (c) 2025 @AmarnathCJD
 //go:build js && wasm
 // +build js,wasm
 

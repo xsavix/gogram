@@ -1,12 +1,9 @@
 package main
 
-// Youtube DL Bot Example;
-// https://gist.github.com/AmarnathCJD/bfceefe9efd1a079ab151da54ef3bba2
-
 import (
 	"fmt"
 
-	"github.com/amarnathcjd/gogram/telegram"
+	"github.com/xsavix/gogram/telegram"
 )
 
 const (

@@ -1,5 +1,3 @@
-// Copyright (c) 2025 @AmarnathCJD
-
 package gogram
 
 import (
@@ -17,13 +15,13 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/amarnathcjd/gogram/internal/encoding/tl"
-	"github.com/amarnathcjd/gogram/internal/mode"
-	"github.com/amarnathcjd/gogram/internal/mtproto/messages"
-	"github.com/amarnathcjd/gogram/internal/mtproto/objects"
-	"github.com/amarnathcjd/gogram/internal/session"
-	"github.com/amarnathcjd/gogram/internal/transport"
-	"github.com/amarnathcjd/gogram/internal/utils"
+	"github.com/xsavix/gogram/internal/encoding/tl"
+	"github.com/xsavix/gogram/internal/mode"
+	"github.com/xsavix/gogram/internal/mtproto/messages"
+	"github.com/xsavix/gogram/internal/mtproto/objects"
+	"github.com/xsavix/gogram/internal/session"
+	"github.com/xsavix/gogram/internal/transport"
+	"github.com/xsavix/gogram/internal/utils"
 )
 
 const (

@@ -1,5 +1,3 @@
-// Copyright (c) 2025 @AmarnathCJD
-
 package objects
 
 // Some types are decoded in a very specific way, so their decoding logic is stored here and only here.
@@ -8,8 +6,8 @@ import (
 	"compress/gzip"
 	"fmt"
 
-	"github.com/amarnathcjd/gogram/internal/encoding/tl"
-	"github.com/amarnathcjd/gogram/internal/mtproto/messages"
+	"github.com/xsavix/gogram/internal/encoding/tl"
+	"github.com/xsavix/gogram/internal/mtproto/messages"
 )
 
 // TYPES

@@ -8,7 +8,7 @@ import (
 
 	"github.com/dave/jennifer/jen"
 
-	"github.com/amarnathcjd/gogram/internal/cmd/tlgen/tlparser"
+	"github.com/xsavix/gogram/internal/cmd/tlgen/tlparser"
 )
 
 var explicitFields = map[string]bool{

@@ -1,5 +1,3 @@
-// Copyright (c) 2025 @AmarnathCJD
-
 package ige
 
 import (
@@ -13,7 +11,7 @@ import (
 
 	"errors"
 
-	"github.com/amarnathcjd/gogram/internal/utils"
+	"github.com/xsavix/gogram/internal/utils"
 )
 
 type AesBlock [aes.BlockSize]byte

@@ -1,5 +1,3 @@
-// Copyright (c) 2025 @AmarnathCJD
-
 package telegram
 
 import (
@@ -19,7 +17,7 @@ import (
 
 	"errors"
 
-	"github.com/amarnathcjd/gogram/internal/utils"
+	"github.com/xsavix/gogram/internal/utils"
 )
 
 var (

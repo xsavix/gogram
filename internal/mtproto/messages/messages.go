@@ -1,5 +1,3 @@
-// Copyright (c) 2025 @AmarnathCJD
-
 package messages
 
 // messages provides functions for encoding and decoding messages in MTProto.
@@ -11,9 +9,9 @@ import (
 
 	"errors"
 
-	ige "github.com/amarnathcjd/gogram/internal/aes_ige"
-	"github.com/amarnathcjd/gogram/internal/encoding/tl"
-	"github.com/amarnathcjd/gogram/internal/utils"
+	ige "github.com/xsavix/gogram/internal/aes_ige"
+	"github.com/xsavix/gogram/internal/encoding/tl"
+	"github.com/xsavix/gogram/internal/utils"
 )
 
 // Common is a message (either encrypted or unencrypted) used for communication between the client and server.

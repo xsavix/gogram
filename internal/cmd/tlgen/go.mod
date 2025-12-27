@@ -1,4 +1,4 @@
-module github.com/amarnathcjd/gogram/internal/cmd/tlgen
+module github.com/xsavix/gogram/internal/cmd/tlgen
 
 go 1.23
 

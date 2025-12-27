@@ -1,5 +1,3 @@
-// Copyright (c) 2025 @AmarnathCJD
-
 package objects
 
 import (
@@ -8,7 +6,7 @@ import (
 
 	"errors"
 
-	"github.com/amarnathcjd/gogram/internal/encoding/tl"
+	"github.com/xsavix/gogram/internal/encoding/tl"
 )
 
 type requester interface {

@@ -1,5 +1,3 @@
-// Copyright (c) 2025 @AmarnathCJD
-
 package telegram
 
 import (
@@ -18,12 +16,12 @@ import (
 
 	"errors"
 
-	mtproto "github.com/amarnathcjd/gogram"
+	mtproto "github.com/xsavix/gogram"
 
-	"github.com/amarnathcjd/gogram/internal/keys"
-	"github.com/amarnathcjd/gogram/internal/session"
-	"github.com/amarnathcjd/gogram/internal/utils"
-	"github.com/amarnathcjd/gogram/telegram/e2e"
+	"github.com/xsavix/gogram/internal/keys"
+	"github.com/xsavix/gogram/internal/session"
+	"github.com/xsavix/gogram/internal/utils"
+	"github.com/xsavix/gogram/telegram/e2e"
 )
 
 const (
